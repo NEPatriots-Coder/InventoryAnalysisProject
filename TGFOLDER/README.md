@@ -1,13 +1,13 @@
-# TG016L122 Analysis - Plain English for Management
+# TG016L122 Analysis - Plain and Simple
 
-## 📋 **Part Overview - TG016L122**
-**What it is**: A component we buy from BIO001 supplier
+##  **Part Overview - TG016L122**
+**What it is**: A BioPlastic component. 
 **Cost**: $3.03 per unit
 **Current situation**: We're carrying too much safety stock
 
 ---
 
-## 🔍 **The Numbers Story (Column by Column)**
+##  **The Numbers Story **
 
 ### **Usage Patterns**
 - **Used 538 units year-to-date** (through July) vs 1400 full year last year
@@ -31,9 +31,9 @@
 ### **Supplier Performance (The Problem)**
 - **Lead time**: 19 days average
 - **Reliability**: ±20 days variation (very unreliable!)
-- **Vendor**: BIO001
+- **Vendor**: BioPlastics
 
-**What this means**: BIO001 is unpredictable - sometimes 1 day, sometimes 39 days
+**What this means**: BioPlastics from a historical PO investigation is unpredictable - sometimes 1 day, sometimes 39 days
 
 ---
 
@@ -46,7 +46,7 @@
 
 ---
 
-### **The Fix (Your Recommendation)**
+### **The Fix (Your Purchasing Team)**
 - **Optimal trigger**: 95 units instead of 250
 - **Coverage**: 32 days (still very safe)
 - **Logic**: Lead time + buffer for delays + 3 safety days
@@ -55,7 +55,7 @@
 
 ---
 
-## 💰 **Financial Impact**
+##  **Financial Impact**
 
 ### **Per Part Savings**
 - **Excess inventory**: 155 units × $3.03 = **$470 tied up**
@@ -71,7 +71,7 @@
 
 ---
 
-## 📊 **Current Status**
+##  **Current Status**
 
 ### **What's Happening Now**
 - **ERP should reorder**: Current stock (49) below trigger (250)
@@ -82,7 +82,7 @@
 
 ---
 
-## 🎯 **Action Items**
+##  **Action Items**
 
 ### **Immediate (This Week)**
 1. **Reduce safety stock** from 250 to 95 units in ERP
@@ -96,7 +96,7 @@
 
 ---
 
-## 🏆 **The Big Picture**
+##  **The Big Picture**
 
 ### **What We Discovered**
 - Our safety stock settings are **2-3x too high**
@@ -115,7 +115,7 @@
 
 ---
 
-## 🎯 **Bottom Line for Plant Manager**
+##  **Bottom Line **
 
 ### **The Problem**
 "We're carrying 3 months of inventory when 1 month is plenty"
@@ -131,7 +131,7 @@
 
 ---
 
-## 📈 **What Success Looks Like**
+##  **What Success Looks Like**
 
 ### **Next Month**
 - **Reduced safety stocks** on test parts
